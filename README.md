@@ -12,5 +12,6 @@
 #### 2. Saves a histogram of each variable to png files.
 #### 3. Outputs a scatter plot of each pair of variables.
 #### 4. Outputs four box plots of each variable. 
+#### 5. Outputs a heatmap comparing the mean feature value per species.
 
 ##### Source: *https://www.geeksforgeeks.org/iris-dataset/*
