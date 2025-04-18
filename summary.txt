@@ -1,0 +1,27 @@
+Iris Dataset Summary
+====================================
+
+Overall summary
+Shape of dataset: 	 (150, 5) 
+Number of species: 	 3 
+Number of features:  4 
+Species names:		 ['Iris-setosa' 'Iris-versicolor' 'Iris-virginica'] 
+Feature names:		 ['sepal_length' 'sepal_width' 'petal_length' 'petal_width' 'species'] 
+
+SETOSA SUMMARY
+Number of species: 1 
+
+SETOSA SUMMARY
+Number of species: 1 
+
+SETOSA SUMMARY
+Number of species: 1 
+
+SETOSA SUMMARY
+Number of species: None 
+
+SETOSA SUMMARY
+Number of species: None 
+
+SETOSA SUMMARY
+Number of species: None 
