@@ -162,6 +162,8 @@ jupyter notebook
 
 - [26] Seaborn documentation on creating pairplots: https://seaborn.pydata.org/generated/seaborn.pairplot.html
 
-- [27] YouTube video about exploring options with pairplots/customisation: https://www.youtube.com/watch?v=cpZExlOKFH4
+- [27] GeeksForGeeks article about Seaborn pairplots: https://www.geeksforgeeks.org/python-seaborn-pairplot-method/
 
-- [28] GeeksForGeeks article about interpreting pairplots: https://www.geeksforgeeks.org/data-visualization-with-pairplot-seaborn-and-pandas/
+- [28] YouTube video about exploring options with pairplots/customisation: https://www.youtube.com/watch?v=cpZExlOKFH4
+
+- [29] GeeksForGeeks article about interpreting pairplots: https://www.geeksforgeeks.org/data-visualization-with-pairplot-seaborn-and-pandas/
