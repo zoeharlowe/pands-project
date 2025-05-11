@@ -10,7 +10,7 @@
 - References
 
 # 1. Introduction
-### This repository contains my project submission for the Programming and Scripting module as part of the ATU Higher Diploma in Computing in Data Analytics. This project explores the Iris dataset, which was introduced by the statistician Ronald Fisher in 1936 and is often used as a beginner's dataset in data analytics.
+### This repository contains my project submission for the Programming and Scripting module as part of the ATU Higher Diploma in Computing in Data Analytics. This project explores the Iris dataset, which is often used as a beginner's dataset in data analytics.
 
 # 2. Setup 
 
@@ -93,15 +93,12 @@ jupyter notebook
 - **Classification** tasks (e.g., predicting species based on measurements)
 - **Clustering** and **unsupervised learning**
 - **Visualization** techniques (e.g., scatterplots, pair plots)
-- Demonstrating **data preprocessing** and **model evaluation**
-
+  
 ### Source
 ##### Originally introduced by **Ronald A. Fisher** in 1936, the dataset is available in many libraries including:
 
 - [Scikit-learn](https://scikit-learn.org/)
 - [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/iris)
-- R datasets package
-
 
 ###### [2] *https://www.geeksforgeeks.org/iris-dataset/*
 ###### [3] *https://chatgpt.com/share/681f696b-ed80-8000-a52d-4f8c0f8760e3*
