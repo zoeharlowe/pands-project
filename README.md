@@ -64,7 +64,7 @@ jupyter notebook
 # 4. Summary of the Iris dataset
 ##### The **Iris dataset** is a classic and widely used dataset in the field of machine learning and statistics. It contains **150 observations** of iris flowers, with **four numerical features** and a **categorical class label** representing the species.
 
-! [Photo of Iris Setosa, Iris Versicolor and Iris Virginica, with labels for each sepal and petal] (https://th.bing.com/th/id/R.9df2b7bc66644dae06aceef25a9712f9?rik=mrzdphMfvHvc0A&pid=ImgRaw&r=0)
+![alt text](R.png)
 
 [1] Photo from Analytics Vidhya: https://th.bing.com/th/id/R.9df2b7bc66644dae06aceef25a9712f9?rik=mrzdphMfvHvc0A&pid=ImgRaw&r=0
 
