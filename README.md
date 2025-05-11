@@ -59,6 +59,8 @@ jupyter notebook
 - will create a **heatmap** to display the correlation coefficients of each feature with one another. 
 - will create a **pairplot** to display the relationship between all features with one another.
 
+#### You can simply just view my code by clicking into `analysis.py`, or else view the Jupyter Notebook which contains the code along with my understandings and assumptions in `iris.ipynb`.
+
 # 4. Summary of the Iris dataset
 ##### The **Iris dataset** is a classic and widely used dataset in the field of machine learning and statistics. It contains **150 observations** of iris flowers, with **four numerical features** and a **categorical class label** representing the species.
 
@@ -98,12 +100,35 @@ jupyter notebook
 
 
 ###### [1] *https://www.geeksforgeeks.org/iris-dataset/*
-###### [2] Help with colormaps and README *https://chatgpt.com/share/681f696b-ed80-8000-a52d-4f8c0f8760e3*
+###### [2] *https://chatgpt.com/share/681f696b-ed80-8000-a52d-4f8c0f8760e3*
 
 # 5. About the Author
-##### My name is Zoe McNamara Harlowe and I am from Limerick, Ireland. I have just begun my journey in data analytics this year. I am looking to improve my ability to code as well as explore the fascinating area of data analysis. I have a degree in Education with Irish and Spanish and am interested in seeing the ways that I can apply data analytics to this field. Since starting in January, I have thoroughly enjoyed gaining valuable knowledge about this area, and I am looking forward to further learning more about Python, machine learning and statistical analysis.
+##### My name is Zoe McNamara Harlowe and I am from Limerick, Ireland. I have just begun my journey in data analytics this year. I am looking to improve my ability to code as well as explore the fascinating area of data analysis. I have a degree in Education with Irish and Spanish and I am interested in finding out about the ways that I can apply data analytics to this field. Since starting this Postgrad in January, I have thoroughly enjoyed gaining valuable knowledge about this area, and I am looking forward to learning more about Python, machine learning and statistical analysis in future modules.
 
 # 6. References
-[1] GeeksForGeeks: Iris dataset https://www.geeksforgeeks.org/iris-dataset/
-[2] ChatGPT: Help with colormaps and README https://chatgpt.com/share/681f696b-ed80-8000-a52d-4f8c0f8760e3
-[3] 
+[1] GeeksForGeeks article about Iris dataset: https://www.geeksforgeeks.org/iris-dataset/
+[2] ChatGPT: Help with colormaps and README: https://chatgpt.com/share/681f696b-ed80-8000-a52d-4f8c0f8760e3
+[3] Raw Iris dataset: https://archive.ics.uci.edu/dataset/53/iris
+[4] Pandas documentation on reading in CSV files: https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_csv.html
+[5] GeeksForGeeks article about df.head() and df.tail(): https://www.geeksforgeeks.org/difference-between-pandas-head-tail-and-sample/
+[6] Pandas documentation on df.columns(): https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.columns.html#pandas.DataFrame.columns
+[7] Numpy documentation on np.unique(): https://numpy.org/doc/stable/reference/generated/numpy.unique.html
+[8] Pandas documentation on df.describe(): https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.describe.html
+[9] GeeksForGeeks article on creating new text files: https://www.geeksforgeeks.org/create-a-new-text-file-in-python/
+[10] ChatGPT: Create lambda function to count number of features: https://chatgpt.com/share/68023853-726c-8000-901f-72d720dfc9bf
+[11] Pandas documentation on to_numpy(): https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_numpy.html
+[12] ChatGPT: Create arrays for each species and feature combination: https://chatgpt.com/share/681a689e-af98-8000-b1fe-cc017fc24afa
+[13] Matplotlib documentation on creating histograms: https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.hist.html 
+[14] Statology article about bimodal distribution: https://www.statology.org/bimodal-distribution/
+[15] Matplotlib documentation on creating boxplots: https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.boxplot.html
+[16] GeeksForGeeks article about displaying multiple datasets in one boxplot: https://www.geeksforgeeks.org/box-plot-in-python-using-matplotlib/
+[17] ChatGPT: Applying colours to boxplot using for loops: https://chatgpt.com/share/68090395-151c-8000-b018-be5c812b4ee9
+[18] Article about interpreting boxplots: https://www.vrogue.co/post/understanding-boxplots-how-to-read-and-interpret-a-boxplot-built-in
+[19] Matplotlib documentation on creating scatterplots: https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.scatter.html
+[20] Pandas documentation on finding correlation coefficients with df.corr(): https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.corr.html
+[21] Statology article about correlation in Python: https://www.statology.org/correlation-in-python/
+[22] Matplotlib documentation on annotated heatmaps: https://matplotlib.org/stable/gallery/images_contours_and_fields/image_annotated_heatmap.html
+[23] ChatGPT: Create a custom colormap for a heatmap: https://chatgpt.com/share/67ffaf4d-5d08-8000-acf8-bd59f1760cbe
+[24] Seaborn documentation on creating pairplots: https://seaborn.pydata.org/generated/seaborn.pairplot.html
+[25] YouTube video about exploring options with pairplots/customisation: https://www.youtube.com/watch?v=cpZExlOKFH4
+[26] GeeksForGeeks article about interpreting pairplots: https://www.geeksforgeeks.org/data-visualization-with-pairplot-seaborn-and-pandas/
